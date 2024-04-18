@@ -11,6 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    /* overflow: hidden; */
 }
 
 .calculator {
@@ -78,7 +79,7 @@ input {
 
 .logo {
     position: absolute;
-    top: 20%;
+    /* top: ; */
     /* left: 200; */
     font-size: 10px;
     /* padding-top: 30px; */
