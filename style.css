@@ -19,6 +19,7 @@ body {
     height: 300px; */
     margin: 0px auto;
     /* border: 1px solid white; */
+    z-index: 100;
 }
 
 .divider {
